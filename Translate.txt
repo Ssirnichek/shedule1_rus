@@ -1,7 +1,7 @@
 
 ##ЗАСТАВКА##
 
-TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS не одобряет производство, распространение или употребление запрещённых веществ.\n\nПроцессы, изображённые в этой игре, являются полностью вымышленными и не соответствуют реальности. Не пытайтесь следовать им – у вас не получится создать наркотики, но вы можете нанести себе серьёзный вред.\n\nПожалуйста, не употребляйте наркотики.\n\nПереведено RTLC Team и Данечкой :P
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS не одобряет производство, распространение или употребление запрещённых веществ.\n\nПроцессы, изображённые в этой игре, являются полностью вымышленными и не соответствуют реальности. Не пытайтесь следовать им – у вас не получится создать наркотики, но вы можете нанести себе серьёзный вред.\n\nПожалуйста, не употребляйте наркотики.\n\nПереведено RTLC Team и Данечкой :3
 
 ##ДЕМОВЕРСИЯ/Пре-релиз##
 
@@ -201,6 +201,16 @@ Back=Назад
 
 r:"^(.+?) Alternate$"=$1 Альтернативная
 BETA=БЕТА
+
+Community Vote=Голосование
+ACTIVE=АКТИВНО
+What do you want to see in the next major Schedule I update?=Что бы ты хотел увидеть в следующем крупном обновлении Schedule I?
+Your vote has been recorded.\n\nThank you!=Твой голос засчитан\n\nСпасибо!.
+
+Rival Cartel=Конкурирующий Картель
+Police Expansion=Улучшение Полиции
+Shrooms=Грибы (Новая наркота)
+
 
 ##--ПРОДОЛЖИТЬ--##
 
@@ -540,33 +550,33 @@ Leave=Выйти
 
 ##ЗАГРУЗКА ИГРЫ##
 
-Feeling stingy? Customers sometimes won't notice if you give them slightly less product than requested.=Чувствуете жадность? Клиенты иногда даже не заметят, если вы дадите им немного меньше продукта, чем было заказано.
-You won't be able to enter your property while wanted if you're within sight of police.=Вы не сможете войти на свою территорию, будучи в розыске, если находитесь в поле зрения полиции.
-When curfew is active, all citizens are legally required to remain within their residences from 9pm to 5am.=Когда действует комендантский час, все граждане обязаны оставаться в своих домах с 21:00 до 05:00.
-Each property has a limit to the amount of employees that can work there.=Каждая собственность имеет ограничение на количество сотрудников, которые могут там работать.
-You can repaint your vehicles at the body shop.=Вы можете покрасить свои транспортные средства в автосервисе.
-Vehicle stuck? Head to the body shop to get it towed.=Застрял транспорт? Обратитесь в автосервис, чтобы его эвакуировать.
-Need some extra cash? Grab some trash and take it to a 'Trash for Cash' machine.=Нужны дополнительные деньги? Возьмите мусор и отнеси его в машину "Деньги за Мусор".
-Be wary of your surroundings when you're dealing! Police will notice when you're handing over product or providing samples to customers.=Будьте внимательны к своему окружению, когда заключаете сделки! Полиция заметит, когда вы будете передавать товар или предоставлять образцы клиентам.
-We careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Будьте осторожны при варке мета — слишком сильный нагрев может вызвать взрыв.
+Feeling stingy? Customers sometimes won't notice if you give them slightly less product than requested.=Клиенты могут и не заметить, если дать им чуть меньше — зато у тебя всегда пару лишних граммов на кармане!.
+You won't be able to enter your property while wanted if you're within sight of police.=Если ты в розыске и полиция глаз с тебя не спускает — свою хату ты пока не увидишь!
+When curfew is active, all citizens are legally required to remain within their residences from 9pm to 5am.=Комендантский час — время тусить дома с 9 вечера до 5 утра. Вышел — получишь VIP-приглашение к копам!.
+Each property has a limit to the amount of employees that can work there.=На каждом объекте можно нанять только столько сотрудников, сколько разрешено — больше нельзя, иначе просто не поместятся! Логично, да?
+You can repaint your vehicles at the body shop.=Хочешь стильный тачку? Заезжай в автосервис — там её перекрасят, и всё.
+Vehicle stuck? Head to the body shop to get it towed.=Тачка застряла? В автосервис — они её вытащат, как кто? Не знаю.
+Need some extra cash? Grab some trash and take it to a 'Trash for Cash' machine.=Деньги на горизонте? Собери мусор и отнеси в автомат "Деньги за Мусор", вот бы в реальности так.
+Be wary of your surroundings when you're dealing! Police will notice when you're handing over product or providing samples to customers.=Посмотри по сторонам перед тем как совершать сделку. Полиция то не тупая - спалит и капец.
+We careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Будь осторожней во время варки мета - перегреешь и БУМ.
 A coca plant will display distinctive red berries when it is ready for harvest.=Растение коки будет показывать характерные красные ягоды, когда оно будет готово к сбору.
-Speak to the friendly folk at Dan's Hardware for all your 'home improvement' needs!=Обращайтесь к дружелюбным ребятам из "Хозтоваров Дэна" для всех ваших "домашних улучшений"!
-Need to hide from the authorities? Try a bush, dumpster, or large tree,=Нужно скрыться от властей? Попробуйте спрятаться в кусте, мусорном баке или за большим дерево.
-Employees slacking off? Try punching them!=Сотрудники ленятся? Попробуйте их ударить!
-There are a number of ATMs scattered throughout Hyland Point for your convenience.=По всему Хайленд-Пойнт разбросаны банкоматы для вашего удобства.
-You can view and track/untrack all of your current quests and contracts in your Journal.=Вы можете просматривать, отслеживать и отменять отслеживание всех текущих заданий и контрактов в телефоне - в приложении "Журнал".
-Dealers will automatically split up bricks/jars when necessary.=Дилеры автоматически разделят брикеты/банки при необходимости.
-Hyland Point was first established in 1903 thanks to the efforts of P.P. Hyland.=Хайленд-Пойнт был основан в 1903 году благодаря усилиям П.П. Хайленда.
-If you die in singleplayer, you'll go back to your last save. If you die in multiplayer, you'll pay an expensive visit to the medical clinic.=Если умрёте в одиночной игре, вернётесь к последнему сохранению. В мультиплеере смерть обойдётся дорогим визитом в клинику.
-If you've recently been searched at a checkpoint, you're free to pass through that checkpoint multiple times without another search.=Если вас недавно обыскали на КПП, можете проходить через него несколько раз без повторного обыска.
-Visit the graveyard and ponder your mortality!=Посетите кладбище и поразмышляйте над своей смертностью!
-Head to Ray's Realty to purchase properties and businesses.=Идите в агенство недвижимости Рэя чтобы приобрести бизнес и недвижимость.
-Dealers will sell whatever is in their inventory, regardless of it's listed for sale or not.=Дилеры сбывают любой товар из своего инвентаря — не важно, выставлен он на продажу или нет.
-Dealers will sell whatever is in their inventory, regardless of if it's listed for sale or not.=Дилеры сбывают любой товар из своего инвентаря — не важно, выставлен он на продажу или нет.
+Speak to the friendly folk at Dan's Hardware for all your 'home improvement' needs!=Обращайся к Дэну в его Хозтоварах, чтобы улучшить свою базу! Ну или комнату...
+Need to hide from the authorities? Try a bush, dumpster, or large tree,=Надоела полиция которая гонится за тобой всю ночь? Попробуй спрятаться в мусорном баке, кусте или за деревом!
+Employees slacking off? Try punching them!=Сотрудник ленится? Ляпни по нему! У него же скорее всего есть дети...
+There are a number of ATMs scattered throughout Hyland Point for your convenience.=На каждом углу Хайленд Поинта стоит банкомат, всегда пожалуйста.
+You can view and track/untrack all of your current quests and contracts in your Journal.=Вы можете просматривать, отслеживать и отменять отслеживание всех текущих заданий и контрактов в телефоне - в приложении "Журнал". Кто им пользуется?
+Dealers will automatically split up bricks/jars when necessary.=При необходимости дилеры разделят кирпичи по банкам или банки по пакетикам. Только им для этого нужно место в инвентаре.
+Hyland Point was first established in 1903 thanks to the efforts of P.P. Hyland.=Хайленд-Пойнт был основан в 1903 году благодаря усилиям П.П. Хайленда. Доволно полезная информация.
+If you die in singleplayer, you'll go back to your last save. If you die in multiplayer, you'll pay an expensive visit to the medical clinic.=Если умрёшь в одиночной игре, вернёшься к последнему сохранению. В мультиплеере смерть обойдётся дорогим визитом в клинику.
+If you've recently been searched at a checkpoint, you're free to pass through that checkpoint multiple times without another search.=Если тебя недавно обыскали в КПП, ты сможешь ещё несколько раз пройти через него без повторных обысков.
+Visit the graveyard and ponder your mortality!=Посетите кладбище и поразмышляйте над своей смертностью! Тебе же больше нечего делать?
+Head to Ray's Realty to purchase properties and businesses.=Чтобы приобрести домик покруче или бизнес, посети Недвижимость Рея.
+Dealers will sell whatever is in their inventory, regardless of it's listed for sale or not.=Дилеры продают всё, что у них есть - не важно, выставлен товар на продажу или нет.
+Dealers will sell whatever is in their inventory, regardless of if it's listed for sale or not.=Дилеры продают всё, что у них есть - не важно, выставлен товар на продажу или нет.
 Your progress is automatically saved when you sleep. You can also manually save at the save panel in any of your properties.=Прогресс сохраняется автоматически, когда ты спишь. Также можно сохраниться вручную через панель сохранения в любом из твоих владений.
-Be careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Осторожно с варкой мета — перегрев смеси может привести к взрыву.
-Staff don't work for free! They will automatically draw their daily wage from their briefcase on their bed. If it's empty at the start of a new shift, they won't work.=Персонал не работает бесплатно! Они сами берут дневную плату из чемодана на своей кровати. Если он пуст в начале смены — работать не будут.
-Resisting arrest will result in law enforcement utilizing tasers. Continue to resist, and they'll eventually switch to lethal weapons.=Сопротивление аресту приведёт к использованию электрошокера. Продолжите сопротивляться — применят огнестрел.
+Be careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Будь осторожней во время варки мета - перегреешь и БУМ.
+Staff don't work for free! They will automatically draw their daily wage from their briefcase on their bed. If it's empty at the start of a new shift, they won't work.=Персонал не работает бесплатно! Они сами берут дневную плату из чемодана на своей кровати либо из шкафчика. Если там пусто в начале смены — работать не будут.
+Resisting arrest will result in law enforcement utilizing tasers. Continue to resist, and they'll eventually switch to lethal weapons.=Сопротивление аресту приведёт к использованию электрошокера. Продолжишь сопротивляться — применят огнестрел.
 Loading world...=Загрузка мира...
 Loading data...=Загрузка данных...
 Spawning player...=Спавн игрока...
@@ -1107,6 +1117,7 @@ I haven't had my fix in too long, I really need something right now bro. You got
 Hey! I really need some of your stuff right now... you got anything?=Эй! Мне срочно нужна твоя дурь... есть что-нибудь?
 What do you have for sale?=Что у вас есть на продажу?
 Hey bro! I really need some of your stuff right now... you got anything?=Эй, братан! Мне очень нужен твой товар прям щас... у тебя есть чё?
+Hey man! I'm really in need right now. Please tell me you've got something I can buy..?=Мужик, ну я не могу больше, ну дай чё нить, умоляю.
 
 [Make an offer]=[Сделать предложение]
 Follow me, I need to grab it first=Иди за мной, взять нужно
@@ -1321,6 +1332,7 @@ No way!!=Нет уж!!
 No way=Ну не
 No thanks=Не спасибо
 No thanks...=Нет спасибо...
+Not yet man=Не сейчас...
 Hmm ok. What time?=Хмм ок. Когда?
 
 That's some good shit!! You'll hear from me=Ебать штырит!! Я ещё свяжусь с тобой
@@ -1339,7 +1351,7 @@ I haven't had my fix in too long, I really need something right now. You got any
 I'm feining for something! You got anything I can buy??=У меня ломка началась! У тебя есть что продать??
 Ok maybe next time=В другой раз
 What is this? The deal is off!=Чё это? Сделки не будет!
-Not what I asked for. The deal is off.=Не то, что нужно было. Сделке конец.
+Not what I asked for. The deal is off.=Что это нахуй?!
 Nope - nevermind=Да не, забудь
 I'm good=Со мной всё хорошо
 The hell?!=Какого чёрта?!
@@ -1365,7 +1377,7 @@ Are you joking?=Это прикол?
 The hell was that?=Что это за херня?
 I guess that's fine. When?=Я думаю норм. Когда?
 Alright then. What time?=Пускай так. Когда?
-The deal is off. This is not what I wanted.=Сделки не будет. Мне не это нужно было.
+The deal is off. This is not what I wanted.=Но мне это не нужно!
 Damn it fine. What time?=Да ёбаный в рот, лан. Когда?
 I guess that's fine bro. When?=Я думаю норм, бро. Когда?
 Goddammit no. I'll just look elsewhere=Сука, нет. Я поищу в другом месте
@@ -1376,7 +1388,7 @@ Nopeskies bro - nevermind=Неа, бро — забудь
 No thanks dude. I'll just look elsewhere=Не спасибо, чувак. Поищу в другом месте
 Aight homie. What time you wanna meet?=Лан друган. Когда хочешь встретиться?
 Aight. What time?=Лан. Когда?
-This isn't right. The deal is off.=Это не то. Сделке конец.
+This isn't right. The deal is off.=Это не то!
 This isn't what I asked for! The deal is off.=Это не то, что я хотел! Отмена.
 
 sr:"Good!! I'll see u <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Оки!! Увидимся <b>$1</b> утром.
