@@ -208,7 +208,7 @@ What do you want to see in the next major Schedule I update?=Что бы ты х
 Click and hold an option to cast your vote=Нажми и удерживай вариант, который хочешь увидеть в игре.
 Submitting=Отправка
 Submitting...=Отправка...
-Your vote has been recorded.\n Thank you!=Твой голос засчитан\n Спасибо!.
+Your vote has been recorded.\n Thank you!=Твой голос засчитан\n Спасибо!
 
 Rival Cartel=Конкурирующий Картель
 Police Expansion=Улучшение Полиции
