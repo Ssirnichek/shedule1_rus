@@ -4063,10 +4063,6 @@ You're under arrest!=Вы арестованы!
 
 ##-ШТРАФЫ-##
 
-OFFENSE NOTICE=УВЕДОМЛЕНИЕ О ПРАВОНАРУШЕНИИ
-You have been convicted of the following:=Вы были осуждены за следующее:
-Penalty=Штраф
-
 r:"^\$(.+?) fine \(\$(.+?) paid - insufficient cash\)$"=$$$1 штраф ($$$2 уплачено — не было налички)
 r:"^\$(.+?) fine \(paid in cash\)$"=$$$1 штраф (выплачено наличкой)
 r:"^(\d+) low-severity drugs confiscated$"=$1 препаратов низкой тяжести конфисковано
@@ -4458,7 +4454,8 @@ Make sure there's soil in my supplies stash.=Убедись, что в моих 
 You can use your management clipboards to assign pots/drying racks to me.=Можете назначить мне горшки или сушилки используя планшет управления.
 
 I need to transfer you to another property=Мне нужно перевести тебя в другое место
-Okay - which property should I transfer to?=Ну лдано, куда?
+sr:"^So you\'d like to reassign me to (.+)\? I\'ll go there as soon as I finish my current task.$"=$1? Ты меня хочешь туда перевести? Хорошо, доделаю задание и пойду.
+Okay - which property should I transfer to?=Хорошо, куда?
 
 ##Фильтры##
 
