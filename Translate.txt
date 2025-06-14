@@ -95,7 +95,7 @@ Wait for the dead drop=Дождитесь закладки
 View dead drop=Проверить тайник
 Dead Drop=Тайник
 Package at least 3x weed=Упакуйте как минимум 3x травки
-I'm good thanks=Я в порядке спасибо
+I'm good thanks=Я в порядке, спасибо
 I'm good thanks man=Братан, давай позже
 r:"^(\+\d+) more$"=$1 ещё
 Forfeit and collect $10,000=Сдать и забрать $10,000
@@ -1100,7 +1100,7 @@ Wow that's pretty good, I'll message you=Неплохо, я тебе напиш�
 Oh very nice! You'll be hearing from me =Ну, я напишу
 Mmm not bad at all... I'll message you=Вооууу ничё сее, жди минеяя
 Oooh yeah not bad! I'll text you=Ооох даааа!!! Я те напишу!
-That's good stuff. You'll hear from me=Вот это ничё такой, напишу
+That's good stuff. You'll hear from me=Вот это ничё так штырит, напишу
 Oh shit that's good stuff homie, I'll text you=Чёрт, годнота, бро. Я тебе напишу
 
 Argh! That's nasty=Фу! Противное что-то!
@@ -1316,7 +1316,7 @@ Finally...=Наконец...
 About time...=Уже?
 Ok fine. What time?=Ок лады. Когда?
 I guess that's fine. When?=Я думаю пойдёт. Когда?
-Hey there =Эй привет
+Hey there =Да?
 No thanks. I'll just look elsewhere=Я лучше гляну в другом месте
 Nope!! Nevermind=Нет!!
 
@@ -1336,6 +1336,7 @@ No way=Ну не
 No thanks=Не спасибо
 No thanks...=Нет спасибо...
 Not yet man=Не сейчас...
+Not right now broskies=Не сейчас, братан
 Hmm ok. What time?=Хмм ок. Когда?
 
 That's some good shit!! You'll hear from me=Ебать штырит!! Я ещё свяжусь с тобой
@@ -4457,6 +4458,7 @@ I need to transfer you to another property=Мне нужно перевести 
 sr:"^So you\'d like to reassign me to (.+)\? I\'ll go there as soon as I finish my current task.$"=$1? Ты меня хочешь туда перевести? Хорошо, доделаю задание и пойду.
 Okay - which property should I transfer to?=Хорошо, куда?
 
+Ok boss, I'll head over there shortly.=Хорошо, скоро буду на точке
 ##Фильтры##
 
 Configure Filter=Настроить фильтр
