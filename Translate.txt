@@ -204,11 +204,14 @@ BETA=БЕТА
 
 Community Vote=Голосование
 ACTIVE=<size\=12>АКТИВНО</size>
+CLOSED=<size\=10>НЕ АКТИВНО</size>
 What do you want to see in the next major Schedule I update?=Что бы ты хотел увидеть в следующем крупном обновлении Schedule I?
 Click and hold an option to cast your vote=Нажми и удерживай вариант, который хочешь увидеть в игре.
 Submitting=Отправка
 Submitting...=Отправка...
 Your vote has been recorded.\n Thank you!=Твой голос засчитан\n Спасибо!
+
+Thanks for voting, everyone! With over 440,000 submissions, 64% voted for the Rival Cartel Update. You can expect this to arrive in late July.=Спасибо всем за то, что проголосовали! Из более чем 440к заявок, 64% проголосовали за Картель! Обновление выйдет в конце июля, ожидайте. 
 
 Rival Cartel=Конкурирующий Картель
 Police Expansion=Улучшение Полиции
