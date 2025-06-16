@@ -211,7 +211,7 @@ Submitting=Отправка
 Submitting...=Отправка...
 Your vote has been recorded.\n Thank you!=Твой голос засчитан\n Спасибо!
 
-Thanks for voting, everyone! With over 440,000 submissions, 64% voted for the Rival Cartel Update. You can expect this to arrive in late July.=<size\=10>Спасибо всем за то, что проголосовали! Из более чем 440к заявок, 64% проголосовали за Картель! Обновление выйдет в конце июля, ожидайте.</size>
+Thanks for voting, everyone! With over 440,000 submissions, 64% voted for the Rival Cartel Update. You can expect this to arrive in late July.=<size\=8>Спасибо всем за то, что проголосовали! Из более чем 440к заявок, 64% проголосовали за Картель! Обновление выйдет в конце июля, ожидайте.</size>
 
 Rival Cartel=Конкурирующий Картель
 Police Expansion=Улучшение Полиции
