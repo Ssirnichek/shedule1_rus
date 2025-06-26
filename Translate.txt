@@ -1,4 +1,3 @@
-
 ##ЗАСТАВКА##
 
 TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS не одобряет производство, распространение или употребление запрещённых веществ.\n\nПроцессы, изображённые в этой игре, являются полностью вымышленными и не соответствуют реальности. Не пытайтесь следовать им – у вас не получится создать наркотики, но вы можете нанести себе серьёзный вред.\n\nПожалуйста, не употребляйте наркотики.\n\nПереведено Сырничком :3\n\nСистема перевода от RTLC Team 
@@ -1053,8 +1052,13 @@ CUSTOMER RECENTLY COMPLETED A DEAL=КЛИЕНТ НЕДАВНО СОВЕРШАЛ 
 
 Can I interest you in a free sample?=Могу ли я заинтересовать вас бесплатным образцом?
 SAMPLE ALREADY OFFERED TODAY=ОБРАЗЕЦ УЖЕ ПРЕДЛАГАЛСЯ СЕГОДНЯ
-r:UNLOCK ONE OF (.*)'S CONNECTIONS FIRST=СНАЧАЛА ЗАРУЧИТЕСЬ СВЯЗЯМИ
-Give Free Sample=Дайте бесплатный образец
+r:UNLOCK ONE OF (.*)'S CONNECTIONS FIRST=СНАЧАЛА ЗАРУЧИСЬ СВЯЗЯМИ
+UNLOCK ONE OF BENJI'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ БЕНДЖИ
+UNLOCK ONE OF MOLLY'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ МОЛЛИ
+UNLOCK ONE OF BRAD'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ БРЭДА
+UNLOCK ONE OF JANE'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ДЖЕЙН
+UNLOCK ONE OF WEI'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ВЭЯ
+Give Free Sample=Дай бесплатный образец
 sr:"^Place a product here for (.+) to try$"=<size\=12>Переместите продукт сюда чтобы $1 их попробовал(а)</size>
 You are providing more items than required.=Вы предоставляете больше предметов, чем требуется.
 sr:"^(.+)'s favourite effects:$"=Любимые эффекты $1:
