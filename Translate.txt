@@ -1840,7 +1840,6 @@ OG Kush Test Test=Тест OG Kush
 sr:"(.+)'s favourite drug: (.+)$"=Любимый наркотик $1: $2
 
 MDMA=MDMA
-Shrooms=Грибочки
 Heroin=Героин
 
 
@@ -5882,3 +5881,4 @@ Web=Паутина
 
 ##Не перемещать##
 sr:"(\d+x) (.+)\, (.+)"=$1 $2, $3
+
